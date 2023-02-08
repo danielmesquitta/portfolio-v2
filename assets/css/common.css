@@ -726,6 +726,7 @@ img {
   -webkit-box-align: start;
   -ms-flex-align: start;
   align-items: flex-start;
+  flex-direction: row;
 }
 @media screen and (max-width: 800px) {
   .text__wrap--top {
