@@ -664,11 +664,11 @@ img {
   }
 }
 .page-top .image__work {
-  background: url(../img/work.png) no-repeat center;
+  background: url(../img/work.webp) no-repeat center;
   background-size: cover;
 }
 .page-top .image__about {
-  background: url(../img/about.png) no-repeat center;
+  background: url(../img/about.webp) no-repeat center;
   background-size: cover;
 }
 .text {
@@ -1353,15 +1353,15 @@ header .global-nav__sns a:last-child {
   background: #072142;
 }
 .image--works {
-  background: url(../img/work.png) no-repeat center;
+  background: url(../img/work.webp) no-repeat center;
   background-size: cover;
 }
 .image--about {
-  background: url(../img/about.png) no-repeat center;
+  background: url(../img/about.webp) no-repeat center;
   background-size: cover;
 }
 .image--contact {
-  background: url(../img/contact.png) no-repeat center;
+  background: url(../img/contact.webp) no-repeat center;
   background-size: cover;
 }
 .image .page-num {
