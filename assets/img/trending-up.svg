@@ -7,5 +7,5 @@
     </linearGradient>
   </defs>
   <path d="M48 368l121.37-121.37a32 32 0 0145.26 0l50.74 50.74a32 32 0 0045.26 0L448 160 M352 144h112v112" fill="none"
-    stroke="url(#trending-up-a)" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" />
+    stroke="url(#trending-up-a)" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" />
 </svg>
