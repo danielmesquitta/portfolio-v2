@@ -1725,6 +1725,10 @@ header .global-nav__sns a:last-child {
 }
 .who__text {
   margin-bottom: 6.4rem;
+  color: #828c96 !important;
+}
+a.who__text {
+  text-decoration: underline;
 }
 @media screen and (max-width: 420px) {
   .who__text {
