@@ -500,6 +500,7 @@ img {
 }
 @media screen and (max-width: 420px) {
   .heading--left {
+    font-size: 3rem;
     margin-left: auto;
   }
 }
