@@ -751,6 +751,11 @@ img {
   margin-top: 7.2rem;
   text-align: justify;
 }
+
+.text__works a {
+  text-decoration: underline;
+  color: #828c96;
+}
 @media screen and (max-width: 800px) {
   .text__works {
     width: 100%;
